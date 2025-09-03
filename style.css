@@ -97,8 +97,8 @@ input:focus, textarea:focus {
   line-height: 1;
 }
 
-.orange {
-  color: #f06449 !important;
+.purple {
+  color: purple !important;
 }
 
 .link__hover-effect {
